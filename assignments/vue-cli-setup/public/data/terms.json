@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Computer Science",
+        "description": "Introductie in de wondere wereld van de computers",
+        "photo": "http://lorempixel.com/400/200/technics/1/"
+    },
+    {
+        "id": 2,
+        "title": "Game development",
+        "description": "Introduction into object oriented programming with Typescript",
+        "photo": "http://lorempixel.com/400/200/technics/2/"
+    }
+]

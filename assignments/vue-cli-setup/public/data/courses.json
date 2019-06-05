@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Computer Science Basics",
+        "start_date": "2019-09-01 00:00:00",
+        "end_date": "2019-11-01 00:00:00",
+        "term_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Programming Basics",
+        "start_date": "2019-09-01 00:00:00",
+        "end_date": "2019-11-01 00:00:00",
+        "term_id": 1
+    },
+    {
+        "id": 3,
+        "name": "OOP theory",
+        "start_date": "2019-11-01 00:00:00",
+        "end_date": "2020-02-01 00:00:00",
+        "term_id": 2
+    },
+    {
+        "id": 4,
+        "name": "OOP project",
+        "start_date": "2019-11-01 00:00:00",
+        "end_date": "2020-02-01 00:00:00",
+        "term_id": 2
+    },
+    {
+        "id": 5,
+        "name": "Professional Skills",
+        "start_date": "2019-11-01 00:00:00",
+        "end_date": "2020-02-01 00:00:00",
+        "term_id": 2
+    }
+]
